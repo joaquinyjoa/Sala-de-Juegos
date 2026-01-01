@@ -1,6 +1,6 @@
-🖥️ TP_LabolV
+🖥️ Sala-de-juegos
 
-TP_LabolV es una aplicación web desplegada en Firebase que combina sistema de login/registro, información de usuario, chat en tiempo real y juegos interactivos.
+Sala-de-juegos es una aplicación web desplegada en Firebase que combina sistema de login/registro, información de usuario, chat en tiempo real y juegos interactivos.
 
 🌐 Accede a la aplicación: https://tp-angular-hosting.web.app/
 
